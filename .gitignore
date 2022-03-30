@@ -2,7 +2,7 @@
 
 В програмі екліпс натискаємо по "вкладках" які подано далі -- window/preferences/general/workspace/text file encoding. У вкладці "other" змінюємо Cp1251 на UTF-8 і натискаємо apply.
 
-На сайті unicode-table.com я знайшлп потрібний смайл. Потім за допомогою "ЮНИКОД-КОДИРОВЩИКА" (https://unicode-table.com/ru/tools/decoder/) я конвертував потрібні мені емоджі в юникод.
+На сайті unicode-table.com я знайшла потрібний смайл. Потім за допомогою "ЮНИКОД-КОДИРОВЩИКА" (https://unicode-table.com/ru/tools/decoder/) я конвертував потрібні мені емоджі в юникод.
 
 
 
